@@ -4,4 +4,8 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   root "static_pages#index"
+
+  namespace :api, defaults: { format: :json } do
+    resources :greetings, only: [:index]
+  end
 end
