@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [hello-rails-react] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Project Descriptions
 
-**[your_project__name]** is a...
+**[hello-rails-react]** is done to connect previous knowledge with new knowledge as you get a chance to use the react-rails gem. This gem allows you to build React components as a part of your Rails JavaScript and serve it in a component, react_component, to be used in a regular ERB file
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -79,12 +79,13 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- <details>
+<details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby </a></li>
+    <li><a href="https://rubyonrails.org/">Ruby on Rails </a></li>
   </ul>
-</details> -->
+</details>
 
 <details>
 <summary>Database</summary>
@@ -119,7 +120,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
 
@@ -144,8 +145,6 @@ Example commands:
   git clone https://github.com/Kumilachew-g/hello-rails-react
 ```
 
--
-
 ### Install
 
 Install this project with:
@@ -157,8 +156,6 @@ Example command:
   gem install
 ```
 
--
-
 ### Usage
 
 To run the project, execute the following command:
@@ -168,8 +165,6 @@ Example command:
 ```sh
   rails server
 ```
-
--
 
 ### Run tests
 
